@@ -1,8 +1,8 @@
-# Môn Nhập Môn Khoa Học Dữ Liệu - CSC17104
+# Môn Lập trình cho khoa học dữ liệu - CSC17104
 Giáo viên: Trần Trung Kiên, Phạm Trọng Nghĩa, Nguyễn Tiến Huy
 
 ## Mô tả project
-Đây là đồ án cuối kì Môn Nhập Môn Khoa Học Dữ Liệu - CSC17104
+Đây là đồ án cuối kì môn Lập trình cho khoa học dữ liệu - CSC17104
 
 Đồ án quan tâm đến dữ liệu "Những tác nhân tác động lên điểm số của 1000 học sinh" ở nước Mỹ.
 
