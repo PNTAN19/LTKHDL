@@ -1,5 +1,6 @@
-# Môn Lập trình cho khoa học dữ liệu - CSC17104
+# Môn Lập trình cho Khoa học dữ liệu - CSC17104
 Giáo viên: Trần Trung Kiên, Phạm Trọng Nghĩa, Nguyễn Tiến Huy
+
 
 ## Mô tả project
 Đây là đồ án cuối kì môn Lập trình cho khoa học dữ liệu - CSC17104
@@ -16,6 +17,10 @@ Dữ liệu tên là "Students Performance in Exams" của tác giả Jakki Sesh
 |----------|--------------------|-----------------------------------------------|
 | 19127094 | Phạm Ngọc Thiên Ân | [PNTAN19](https://github.com/PNTAN19)         |
 | 19127639 | Phan Vĩ Giai       | [owfdataboy](https://github.com/owfdataboy)   |
+
+
+## Quản lý Project
+Theo dõi mốc thời gian công việc [tại đây](https://docs.google.com/spreadsheets/d/1rPaJ3-R2Ou8agsquQpGGpBD5s66yCDzZQ8m1IoMIY3Y/edit?usp=sharing)
 
 
 ## Track version của project
