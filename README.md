@@ -1,5 +1,5 @@
 # Môn Nhập Môn Khoa Học Dữ Liệu - CSC17104
-
+Giáo viên: Trần Trung Kiên, Phạm Trọng Nghĩa, Nguyễn Tiến Huy
 
 ## Mô tả project
 Đây là đồ án cuối kì Môn Nhập Môn Khoa Học Dữ Liệu - CSC17104
