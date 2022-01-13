@@ -1,0 +1,6 @@
+Bước 1: Phải cài đặt môi trường min_ds-env.
+Bước 2: Mở terminal và cd tới thư mục chứa file notebook.
+Bước 3: Kích hoạt môi trường min_ds-env bằng câu lệnh conda activate min_ds-env.
+Bước 4: Mở jupyter notebook bằng câu lệnh jupyter notebook.
+Bước 5: Mở file Students_Performance.ipynb.
+Bước 6: Chọn Kernel -> Restart & Run all.
